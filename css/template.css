@@ -1,0 +1,8 @@
+.navbar img {
+    margin-top: 1em;
+    display: inline-block;
+}
+
+.navbar .navbar-header a {
+    display: inline-block;
+}
